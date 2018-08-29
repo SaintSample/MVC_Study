@@ -1,2 +1,2 @@
 # MVC_Study
-Repository for MVC projects
+Repository for ASP.NET MVC projects
